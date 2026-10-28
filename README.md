@@ -13,4 +13,4 @@ operations, and public health analytics.
 - Production-oriented medical imaging pipeline using TorchXRayVision
 - Multi-label pathology detection with radiological preprocessing, structured logging, and synthetic fallback for offline operation
 
-📫 **Reach me:** sduong13@wgu.edu | [LinkedIn](https://linkedin.com/in/steven-d-458a43149/)
+📫 **Reach me:** smpduong.com | sduong13@wgu.edu | [LinkedIn](https://linkedin.com/in/steven-d-458a43149/)
